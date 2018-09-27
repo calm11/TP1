@@ -1,0 +1,1548 @@
+Set arp on host h2 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h2 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h2 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h2 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h2 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h2 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h2 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h2 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h2 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h2 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h2 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h2 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h2 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h2 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h2 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h2 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h2 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h2 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h2 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h2 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h2 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h2 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h2 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h2 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h4 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h4 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h4 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h4 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h4 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h4 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h4 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h4 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h4 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h4 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h4 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h4 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h4 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h4 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h4 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h4 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h4 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h4 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h4 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h4 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h4 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h4 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h4 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h4 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h6 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h6 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h6 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h6 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h6 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h6 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h6 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h6 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h6 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h6 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h6 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h6 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h6 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h6 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h6 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h6 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h6 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h6 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h6 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h6 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h6 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h6 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h6 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h6 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h8 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h8 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h8 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h8 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h8 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h8 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h8 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h8 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h8 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h8 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h8 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h8 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h8 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h8 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h8 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h8 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h8 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h8 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h8 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h8 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h8 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h8 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h8 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h8 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h10 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h10 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h10 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h10 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h10 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h10 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h10 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h10 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h10 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h10 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h10 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h10 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h10 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h10 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h10 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h10 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h10 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h10 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h10 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h10 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h10 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h10 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h10 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h10 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h12 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h12 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h12 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h12 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h12 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h12 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h12 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h12 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h12 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h12 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h12 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h12 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h12 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h12 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h12 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h12 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h12 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h12 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h12 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h12 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h12 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h12 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h12 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h12 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h14 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h14 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h14 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h14 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h14 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h14 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h14 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h14 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h14 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h14 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h14 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h14 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h14 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h14 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h14 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h14 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h14 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h14 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h14 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h14 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h14 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h14 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h14 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h14 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h16 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h16 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h16 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h16 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h16 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h16 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h16 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h16 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h16 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h16 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h16 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h16 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h16 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h16 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h16 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h16 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h16 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h16 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h16 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h16 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h16 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h16 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h16 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h16 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h18 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h18 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h18 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h18 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h18 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h18 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h18 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h18 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h18 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h18 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h18 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h18 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h18 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h18 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h18 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h18 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h18 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h18 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h18 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h18 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h18 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h18 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h18 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h18 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h20 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h20 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h20 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h20 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h20 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h20 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h20 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h20 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h20 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h20 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h20 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h20 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h20 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h20 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h20 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h20 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h20 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h20 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h20 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h20 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h20 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h20 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h20 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h20 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h22 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h22 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h22 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h22 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h22 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h22 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h22 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h22 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h22 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h22 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h22 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h22 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h22 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h22 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h22 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h22 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h22 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h22 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h22 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h22 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h22 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h22 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h22 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h22 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h24 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h24 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h24 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h24 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h24 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h24 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h24 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h24 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h24 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h24 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h24 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h24 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h24 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h24 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h24 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h24 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h24 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h24 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h24 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h24 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h24 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h24 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h24 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h24 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h26 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h26 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h26 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h26 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h26 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h26 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h26 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h26 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h26 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h26 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h26 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h26 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h26 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h26 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h26 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h26 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h26 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h26 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h26 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h26 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h26 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h26 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h26 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h26 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h28 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h28 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h28 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h28 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h28 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h28 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h28 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h28 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h28 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h28 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h28 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h28 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h28 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h28 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h28 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h28 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h28 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h28 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h28 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h28 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h28 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h28 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h28 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h28 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h30 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h30 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h30 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h30 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h30 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h30 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h30 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h30 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h30 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h30 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h30 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h30 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h30 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h30 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h30 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h30 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h30 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h30 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h30 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h30 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h30 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h30 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h30 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h30 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h32 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h32 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h32 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h32 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h32 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h32 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h32 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h32 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h32 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h32 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h32 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h32 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h32 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h32 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h32 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h32 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h32 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h32 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h32 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h32 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h32 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h32 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h32 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h32 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h34 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h34 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h34 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h34 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h34 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h34 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h34 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h34 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h34 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h34 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h34 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h34 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h34 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h34 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h34 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h34 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h34 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h34 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h34 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h34 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h34 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h34 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h34 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h34 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h36 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h36 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h36 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h36 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h36 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h36 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h36 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h36 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h36 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h36 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h36 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h36 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h36 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h36 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h36 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h36 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h36 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h36 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h36 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h36 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h36 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h36 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h36 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h36 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h38 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h38 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h38 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h38 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h38 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h38 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h38 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h38 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h38 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h38 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h38 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h38 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h38 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h38 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h38 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h38 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h38 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h38 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h38 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h38 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h38 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h38 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h38 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h38 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h40 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h40 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h40 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h40 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h40 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h40 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h40 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h40 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h40 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h40 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h40 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h40 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h40 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h40 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h40 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h40 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h40 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h40 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h40 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h40 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h40 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h40 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h40 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h40 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h42 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h42 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h42 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h42 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h42 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h42 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h42 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h42 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h42 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h42 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h42 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h42 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h42 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h42 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h42 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h42 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h42 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h42 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h42 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h42 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h42 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h42 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h42 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h42 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h44 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h44 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h44 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h44 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h44 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h44 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h44 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h44 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h44 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h44 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h44 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h44 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h44 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h44 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h44 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h44 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h44 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h44 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h44 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h44 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h44 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h44 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h44 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h44 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h46 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h46 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h46 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h46 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h46 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h46 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h46 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h46 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h46 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h46 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h46 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h46 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h46 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h46 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h46 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h46 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h46 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h46 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h46 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h46 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h46 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h46 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h46 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h46 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h48 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h48 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h48 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h48 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h48 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h48 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h48 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h48 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h48 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h48 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h48 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h48 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h48 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h48 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h48 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h48 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h48 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h48 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h48 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h48 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h48 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h48 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h48 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h48 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h50 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h50 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h50 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h50 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h50 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h50 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h50 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h50 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h50 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h50 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h50 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h50 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h50 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h50 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h50 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h50 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h50 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h50 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h50 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h50 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h50 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h50 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h50 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h50 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+ 
+ ROUND 1 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 2 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 3 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 4 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 5 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+
+ ~~ Results ~~ 
+
+ Individual host throughput averages, in Mbits/sec
+{'h8': 6.741999999999999, 'h2': 5.603999999999999, 'h6': 5.846, 'h4': 5.322, 'h46': 7.176, 'h44': 5.986, 'h42': 6.3359999999999985, 'h40': 6.282, 'h48': 6.558, 'h28': 4.472, 'h24': 6.428, 'h26': 5.22, 'h20': 5.194, 'h22': 5.040000000000001, 'h32': 6.199999999999999, 'h30': 6.26, 'h50': 5.779999999999999, 'h34': 6.787999999999999, 'h38': 7.941999999999999, 'h18': 4.398, 'h10': 5.624, 'h12': 5.0440000000000005, 'h14': 6.556, 'h16': 6.976000000000001, 'h36': 4.766}
+Average server throughput: 5.9416
+Percentage of NIC rate: 59.4%
+Set arp on host h2 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h2 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h2 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h2 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h2 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h2 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h2 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h2 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h2 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h2 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h2 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h2 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h2 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h2 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h2 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h2 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h2 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h2 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h2 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h2 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h2 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h2 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h2 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h2 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h4 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h4 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h4 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h4 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h4 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h4 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h4 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h4 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h4 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h4 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h4 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h4 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h4 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h4 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h4 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h4 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h4 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h4 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h4 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h4 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h4 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h4 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h4 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h4 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h6 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h6 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h6 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h6 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h6 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h6 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h6 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h6 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h6 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h6 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h6 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h6 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h6 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h6 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h6 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h6 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h6 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h6 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h6 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h6 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h6 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h6 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h6 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h6 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h8 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h8 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h8 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h8 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h8 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h8 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h8 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h8 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h8 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h8 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h8 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h8 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h8 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h8 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h8 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h8 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h8 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h8 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h8 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h8 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h8 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h8 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h8 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h8 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h10 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h10 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h10 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h10 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h10 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h10 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h10 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h10 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h10 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h10 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h10 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h10 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h10 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h10 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h10 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h10 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h10 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h10 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h10 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h10 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h10 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h10 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h10 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h10 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h12 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h12 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h12 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h12 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h12 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h12 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h12 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h12 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h12 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h12 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h12 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h12 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h12 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h12 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h12 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h12 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h12 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h12 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h12 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h12 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h12 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h12 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h12 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h12 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h14 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h14 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h14 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h14 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h14 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h14 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h14 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h14 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h14 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h14 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h14 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h14 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h14 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h14 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h14 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h14 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h14 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h14 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h14 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h14 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h14 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h14 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h14 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h14 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h16 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h16 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h16 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h16 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h16 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h16 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h16 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h16 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h16 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h16 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h16 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h16 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h16 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h16 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h16 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h16 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h16 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h16 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h16 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h16 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h16 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h16 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h16 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h16 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h18 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h18 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h18 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h18 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h18 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h18 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h18 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h18 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h18 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h18 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h18 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h18 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h18 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h18 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h18 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h18 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h18 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h18 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h18 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h18 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h18 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h18 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h18 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h18 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h20 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h20 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h20 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h20 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h20 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h20 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h20 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h20 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h20 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h20 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h20 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h20 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h20 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h20 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h20 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h20 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h20 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h20 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h20 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h20 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h20 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h20 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h20 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h20 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h22 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h22 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h22 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h22 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h22 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h22 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h22 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h22 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h22 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h22 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h22 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h22 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h22 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h22 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h22 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h22 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h22 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h22 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h22 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h22 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h22 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h22 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h22 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h22 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h24 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h24 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h24 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h24 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h24 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h24 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h24 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h24 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h24 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h24 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h24 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h24 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h24 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h24 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h24 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h24 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h24 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h24 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h24 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h24 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h24 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h24 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h24 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h24 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h26 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h26 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h26 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h26 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h26 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h26 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h26 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h26 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h26 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h26 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h26 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h26 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h26 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h26 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h26 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h26 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h26 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h26 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h26 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h26 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h26 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h26 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h26 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h26 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h28 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h28 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h28 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h28 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h28 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h28 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h28 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h28 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h28 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h28 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h28 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h28 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h28 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h28 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h28 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h28 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h28 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h28 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h28 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h28 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h28 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h28 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h28 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h28 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h30 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h30 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h30 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h30 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h30 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h30 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h30 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h30 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h30 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h30 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h30 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h30 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h30 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h30 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h30 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h30 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h30 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h30 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h30 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h30 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h30 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h30 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h30 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h30 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h32 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h32 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h32 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h32 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h32 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h32 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h32 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h32 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h32 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h32 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h32 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h32 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h32 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h32 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h32 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h32 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h32 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h32 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h32 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h32 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h32 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h32 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h32 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h32 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h34 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h34 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h34 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h34 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h34 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h34 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h34 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h34 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h34 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h34 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h34 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h34 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h34 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h34 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h34 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h34 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h34 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h34 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h34 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h34 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h34 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h34 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h34 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h34 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h36 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h36 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h36 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h36 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h36 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h36 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h36 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h36 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h36 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h36 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h36 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h36 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h36 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h36 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h36 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h36 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h36 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h36 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h36 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h36 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h36 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h36 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h36 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h36 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h38 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h38 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h38 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h38 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h38 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h38 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h38 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h38 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h38 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h38 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h38 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h38 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h38 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h38 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h38 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h38 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h38 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h38 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h38 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h38 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h38 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h38 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h38 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h38 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h40 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h40 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h40 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h40 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h40 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h40 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h40 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h40 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h40 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h40 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h40 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h40 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h40 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h40 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h40 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h40 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h40 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h40 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h40 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h40 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h40 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h40 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h40 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h40 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h42 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h42 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h42 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h42 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h42 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h42 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h42 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h42 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h42 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h42 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h42 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h42 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h42 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h42 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h42 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h42 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h42 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h42 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h42 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h42 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h42 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h42 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h42 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h42 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h44 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h44 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h44 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h44 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h44 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h44 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h44 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h44 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h44 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h44 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h44 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h44 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h44 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h44 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h44 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h44 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h44 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h44 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h44 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h44 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h44 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h44 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h44 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h44 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h46 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h46 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h46 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h46 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h46 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h46 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h46 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h46 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h46 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h46 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h46 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h46 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h46 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h46 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h46 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h46 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h46 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h46 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h46 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h46 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h46 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h46 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h46 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+Set arp on host h46 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h48 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h48 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h48 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h48 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h48 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h48 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h48 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h48 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h48 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h48 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h48 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h48 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h48 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h48 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h48 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h48 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h48 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h48 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h48 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h48 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h48 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h48 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h48 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h48 for IP 10.0.0.50 to mac 00:00:00:00:00:32
+Set arp on host h50 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h50 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h50 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h50 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h50 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h50 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h50 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h50 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h50 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h50 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h50 for IP 10.0.0.22 to mac 00:00:00:00:00:16
+Set arp on host h50 for IP 10.0.0.24 to mac 00:00:00:00:00:18
+Set arp on host h50 for IP 10.0.0.26 to mac 00:00:00:00:00:1a
+Set arp on host h50 for IP 10.0.0.28 to mac 00:00:00:00:00:1c
+Set arp on host h50 for IP 10.0.0.30 to mac 00:00:00:00:00:1e
+Set arp on host h50 for IP 10.0.0.32 to mac 00:00:00:00:00:20
+Set arp on host h50 for IP 10.0.0.34 to mac 00:00:00:00:00:22
+Set arp on host h50 for IP 10.0.0.36 to mac 00:00:00:00:00:24
+Set arp on host h50 for IP 10.0.0.38 to mac 00:00:00:00:00:26
+Set arp on host h50 for IP 10.0.0.40 to mac 00:00:00:00:00:28
+Set arp on host h50 for IP 10.0.0.42 to mac 00:00:00:00:00:2a
+Set arp on host h50 for IP 10.0.0.44 to mac 00:00:00:00:00:2c
+Set arp on host h50 for IP 10.0.0.46 to mac 00:00:00:00:00:2e
+Set arp on host h50 for IP 10.0.0.48 to mac 00:00:00:00:00:30
+ 
+ ROUND 1 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 2 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 3 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 4 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 5 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+
+ ~~ Results ~~ 
+
+ Individual host throughput averages, in Mbits/sec
+{'h8': 7.84, 'h2': 6.3919999999999995, 'h6': 7.452, 'h4': 6.756, 'h46': 8.120000000000001, 'h44': 8.010000000000002, 'h42': 7.578000000000001, 'h40': 7.7940000000000005, 'h48': 8.888, 'h28': 6.09, 'h24': 7.1739999999999995, 'h26': 5.826, 'h20': 9.258, 'h22': 6.666, 'h32': 9.716, 'h30': 9.254000000000001, 'h36': 7.078, 'h34': 8.376000000000001, 'h38': 8.294, 'h18': 6.578, 'h10': 7.856, 'h12': 7.501999999999999, 'h14': 8.728, 'h16': 7.821999999999999, 'h50': 9.532}
+Average server throughput: 7.7832
+Percentage of NIC rate: 77.8%
+Set arp on host h2 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h2 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h2 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h2 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h2 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h2 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h2 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h2 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h2 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h4 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h4 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h4 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h4 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h4 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h4 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h4 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h4 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h4 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h6 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h6 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h6 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h6 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h6 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h6 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h6 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h6 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h6 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h8 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h8 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h8 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h8 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h8 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h8 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h8 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h8 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h8 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h10 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h10 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h10 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h10 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h10 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h10 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h10 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h10 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h10 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h12 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h12 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h12 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h12 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h12 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h12 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h12 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h12 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h12 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h14 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h14 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h14 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h14 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h14 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h14 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h14 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h14 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h14 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h16 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h16 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h16 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h16 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h16 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h16 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h16 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h16 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h16 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h18 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h18 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h18 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h18 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h18 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h18 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h18 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h18 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h18 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h20 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h20 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h20 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h20 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h20 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h20 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h20 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h20 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h20 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+ 
+ ROUND 1 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 2 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 3 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 4 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 5 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+
+ ~~ Results ~~ 
+
+ Individual host throughput averages, in Mbits/sec
+{'h18': 2.566, 'h8': 3.808, 'h2': 3.3379999999999996, 'h6': 4.688000000000001, 'h12': 4.4719999999999995, 'h14': 4.49, 'h20': 4.926, 'h16': 4.596, 'h10': 4.569999999999999, 'h4': 4.276}
+Average server throughput: 4.173
+Percentage of NIC rate: 41.7%
+Set arp on host h2 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h2 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h2 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h2 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h2 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h2 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h2 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h2 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h2 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h4 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h4 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h4 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h4 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h4 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h4 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h4 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h4 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h4 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h6 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h6 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h6 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h6 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h6 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h6 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h6 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h6 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h6 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h8 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h8 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h8 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h8 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h8 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h8 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h8 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h8 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h8 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h10 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h10 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h10 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h10 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h10 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h10 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h10 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h10 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h10 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h12 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h12 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h12 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h12 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h12 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h12 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h12 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h12 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h12 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h14 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h14 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h14 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h14 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h14 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h14 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h14 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h14 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h14 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h16 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h16 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h16 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h16 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h16 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h16 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h16 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h16 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+Set arp on host h16 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h18 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h18 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h18 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h18 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h18 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h18 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h18 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h18 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h18 for IP 10.0.0.20 to mac 00:00:00:00:00:14
+Set arp on host h20 for IP 10.0.0.2 to mac 00:00:00:00:00:02
+Set arp on host h20 for IP 10.0.0.4 to mac 00:00:00:00:00:04
+Set arp on host h20 for IP 10.0.0.6 to mac 00:00:00:00:00:06
+Set arp on host h20 for IP 10.0.0.8 to mac 00:00:00:00:00:08
+Set arp on host h20 for IP 10.0.0.10 to mac 00:00:00:00:00:0a
+Set arp on host h20 for IP 10.0.0.12 to mac 00:00:00:00:00:0c
+Set arp on host h20 for IP 10.0.0.14 to mac 00:00:00:00:00:0e
+Set arp on host h20 for IP 10.0.0.16 to mac 00:00:00:00:00:10
+Set arp on host h20 for IP 10.0.0.18 to mac 00:00:00:00:00:12
+ 
+ ROUND 1 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 2 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 3 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 4 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+ 
+ ROUND 5 
+
+ 
+ Throughput watch... 
+ 
+ End throughput watch... 
+
+ ~~ Results ~~ 
+
+ Individual host throughput averages, in Mbits/sec
+{'h18': 8.84, 'h8': 9.241999999999999, 'h2': 8.772, 'h14': 9.906000000000002, 'h12': 7.526, 'h6': 10.244, 'h20': 7.549999999999999, 'h16': 8.703999999999999, 'h10': 9.649999999999999, 'h4': 9.518}
+Average server throughput: 8.9952
+Percentage of NIC rate: 90.0%
