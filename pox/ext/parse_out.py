@@ -7,11 +7,11 @@ with open('test_out', 'r') as out:
       if line.startswith('Percentage of NIC rate:'):
         percentages.append(line.split()[-1])
 
-experiment_order = ['TCP 1 Flow  w/   ECMP',
-                    'TCP 8 Flows w/   ECMP',
-                    'TCP 1 Flow  w/ 8KSHORT',
-                    'TCP 8 Flows w/ 8KSHORT']
+experiment_order = ['| Jellyfish | TCP 1 Flow  |  ECMP  |',
+                    '| Jellyfish | TCP 8 Flows |  ECMP  |',
+                    '| Jellyfish | TCP 1 Flow  | 8KSHORT|',
+                    '| Jellyfish | TCP 8 Flows | 8KSHORT|']
 
-print("\n\n ~~ Resultados: Tabela 1 ~~\n")
+print("\n\n    |Resultados: Tabela 1 |")
 for idx, p in enumerate(percentages):
-  print("    %s --> %s" % (experiment_order[idx], p))
+  print("    %s | %s|" % (experiment_order[idx], p))

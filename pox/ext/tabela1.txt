@@ -1,8 +1,7 @@
 
 
- ~~ Resultados: Tabela 1 ~~
-
-    TCP 1 Flow  w/   ECMP --> 61.0%
-    TCP 8 Flows w/   ECMP --> 75.1%
-    TCP 1 Flow  w/ 8KSHORT --> 41.1%
-    TCP 8 Flows w/ 8KSHORT --> 91.3%
+    |Resultados: Tabela 1 |
+    | Jellyfish | TCP 1 Flow  |  ECMP  | | 61.0%|
+    | Jellyfish | TCP 8 Flows |  ECMP  | | 75.1%|
+    | Jellyfish | TCP 1 Flow  | 8KSHORT| | 41.1%|
+    | Jellyfish | TCP 8 Flows | 8KSHORT| | 92.3%|
