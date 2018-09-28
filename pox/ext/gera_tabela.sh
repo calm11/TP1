@@ -28,4 +28,5 @@ sudo python run.py -randpermtraffic --flows 1 -t jelly,10,4,3 --routing kshort -
 #    n=10, k=4, r=3. With congestion control: TCP 8 flows, Routing: ECMP
 sudo python run.py -randpermtraffic --flows 8 -t jelly,10,4,3 --routing kshort --seed 0 >> test_out
 
-python parse_out.py
+python parse_out.py > tabela1.txt
+cat tabela1.txt

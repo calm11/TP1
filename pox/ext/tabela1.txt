@@ -1,0 +1,8 @@
+
+
+ ~~ Resultados: Tabela 1 ~~
+
+    TCP 1 Flow  w/   ECMP --> 61.0%
+    TCP 8 Flows w/   ECMP --> 75.1%
+    TCP 1 Flow  w/ 8KSHORT --> 41.1%
+    TCP 8 Flows w/ 8KSHORT --> 91.3%
